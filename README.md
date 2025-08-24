@@ -23,7 +23,7 @@
 ---
 
 ## 📬 Connect with Me
-- Email: (add your email here)  
+- Email: (naviramiro12@gmail.com)  
 
 ---
 
