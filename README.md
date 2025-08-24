@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋, I'm Ramiro, Ivan Geonyl L.
 
-<!--
-**Ivangeonyl/ivangeonyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
+- 🎓 4th Year *BSIT Student* at *Laguna State Polytechnic University – Sta. Cruz Campus*  
+- 📍 Lives in *Gatid, Santa Cruz, Laguna*  
+- 🌱 Currently learning *Python, HTML, CSS, Flask, and SQL*  
+- 🎯 Goal: To become a skilled *Web and Mobile Application Developer*  
+- 💡 Interested in *Software Development, Cloud Computing, and UI/UX Design*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+- *Languages:* HTML, CSS, SQL, Python  
+- *Frameworks/Tools:* Flask, Git, GitHub  
+
+---
+
+## 📌 Current Projects
+- (No current projects at the moment)  
+
+---
+
+## 📬 Connect with Me
+- Email: (add your email here)  
+
+---
+
+⭐ "Code, Learn, and Share."
+
